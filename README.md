@@ -1,4 +1,13 @@
-### Hi there 👋
+### Leonard Imbert
+
+Hi ! My name is Leonard 😺 and I'm a physics student. My github contains my sides project and some configuration for my computer.
+
+```
+☀
+
+ ___🐈__
+/       \
+```
 
 <!--
 **leonard-IMBERT/leonard-IMBERT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
